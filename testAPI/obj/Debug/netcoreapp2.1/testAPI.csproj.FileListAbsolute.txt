@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\postman\Communication\testAPI\bin\Debug\netcoreapp2.1\testAPI.deps.json
+C:\Users\Administrator\Desktop\postman\Communication\testAPI\bin\Debug\netcoreapp2.1\testAPI.runtimeconfig.json
+C:\Users\Administrator\Desktop\postman\Communication\testAPI\bin\Debug\netcoreapp2.1\testAPI.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\postman\Communication\testAPI\bin\Debug\netcoreapp2.1\testAPI.dll
+C:\Users\Administrator\Desktop\postman\Communication\testAPI\bin\Debug\netcoreapp2.1\testAPI.pdb
+C:\Users\Administrator\Desktop\postman\Communication\testAPI\bin\Debug\netcoreapp2.1\Communication.dll
+C:\Users\Administrator\Desktop\postman\Communication\testAPI\bin\Debug\netcoreapp2.1\Communication.pdb
+C:\Users\Administrator\Desktop\postman\Communication\testAPI\obj\Debug\netcoreapp2.1\testAPI.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\postman\Communication\testAPI\obj\Debug\netcoreapp2.1\testAPI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\postman\Communication\testAPI\obj\Debug\netcoreapp2.1\testAPI.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\postman\Communication\testAPI\obj\Debug\netcoreapp2.1\testAPI.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\postman\Communication\testAPI\obj\Debug\netcoreapp2.1\testAPI.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\postman\Communication\testAPI\obj\Debug\netcoreapp2.1\testAPI.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\postman\Communication\testAPI\obj\Debug\netcoreapp2.1\testAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\Desktop\postman\Communication\testAPI\obj\Debug\netcoreapp2.1\testAPI.csproj.CopyComplete
+C:\Users\Administrator\Desktop\postman\Communication\testAPI\obj\Debug\netcoreapp2.1\testAPI.dll
+C:\Users\Administrator\Desktop\postman\Communication\testAPI\obj\Debug\netcoreapp2.1\testAPI.pdb
